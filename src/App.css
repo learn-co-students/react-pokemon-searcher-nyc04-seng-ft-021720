@@ -21,3 +21,12 @@
 .App-intro {
   font-size: large;
 }
+
+button {
+    border-radius: 12px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.detailsheader {
+    margin-top: 10px;
+}
